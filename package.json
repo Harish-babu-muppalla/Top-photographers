@@ -1,0 +1,22 @@
+{
+  "name": "top_photographers",
+  "version": "1.0.0",
+  "description": "top photographers in india",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harish-babu-muppalla/top-photographers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harish-babu-muppalla/top-photographers/issues"
+  },
+  "homepage": "https://github.com/Harish-babu-muppalla/top-photographers#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
